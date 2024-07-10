@@ -1,1 +1,1 @@
-# Intermediate_Python_Linkedin
+# Intermediate Python for Non-Programmers
